@@ -4,7 +4,8 @@
   "private": true,
   "description": "Catering şirketi kurumsal web sitesi - menü oluşturucu, teklif sistemi ve gizli yönetim paneli (Vercel + Supabase)",
   "scripts": {
-    "dev": "npx vercel dev"
+    "dev": "npx vercel dev",
+    "build": "echo 'No build step required'"
   },
   "engines": {
     "node": "26.x"
