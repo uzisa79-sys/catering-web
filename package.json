@@ -1,0 +1,15 @@
+{
+  "name": "altin-sofra-catering",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Catering şirketi kurumsal web sitesi - menü oluşturucu, teklif sistemi ve gizli yönetim paneli (Vercel + Supabase)",
+  "scripts": {
+    "dev": "npx vercel dev"
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0"
+  }
+}
